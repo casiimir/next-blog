@@ -1,2 +1,24 @@
 .dPost {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ h1{
+    text-align: center;
+ }
+    p{
+        width: 80vw;
+        
+    }
+}
+
+
+.Post{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
 }
